@@ -88,7 +88,26 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h1{
+	font-fmaily: Sans-Serif;
+}
+h1 { font-size: 200%;}
 
+p {
+  font-family: Serif:
+}
+
+#header {
+  background-color: white;
+  height: 90px;
+  line-height: 86px;
+
+#menu {
+  width: 562px;
+  float: left;
+  text-align: right;
+  padding-right: 31px;
+}
 
 
 
